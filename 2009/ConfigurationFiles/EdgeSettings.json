@@ -61,7 +61,7 @@
         "RegItemValueName": "EfficiencyMode",
         "RegItemValueType": "DWord",
         "RegItemValue": "0",
-        "VDIState": "Enabled"
+        "VDIState": "Unchanged"
     },
     {
         "Description": "Policy setting to control an Edge search bar that gets placed on the user desktop automatically",
