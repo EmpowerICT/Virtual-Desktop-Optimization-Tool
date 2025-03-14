@@ -63,13 +63,6 @@
         "SetProperty": "True"
     },
     {
-        "HivePath": "HKLM:\\VDOT_TEMP\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer",
-        "KeyName": "NoThumbnailCache",
-        "PropertyType": "DWord",
-        "PropertyValue": "1",
-        "SetProperty": "True"
-    },
-    {
         "HivePath": "HKLM:\\VDOT_TEMP\\SOFTWARE\\Policies\\Microsoft\\Windows\\Explorer",
         "KeyName": "DisableSearchBoxSuggestions",
         "PropertyType": "DWord",
@@ -93,20 +86,6 @@
     {
         "HivePath": "HKLM:\\VDOT_TEMP\\SOFTWARE\\Policies\\Microsoft\\Windows\\Explorer",
         "KeyName": "DisableThumbsDBOnNetworkFolders",
-        "PropertyType": "DWord",
-        "PropertyValue": "1",
-        "SetProperty": "True"
-    },
-    {
-        "HivePath": "HKLM:\\VDOT_TEMP\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\PushNotifications",
-        "KeyName": "NoToastApplicationNotification",
-        "PropertyType": "DWord",
-        "PropertyValue": "1",
-        "SetProperty": "True"
-    },
-    {
-        "HivePath": "HKLM:\\VDOT_TEMP\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\PushNotifications",
-        "KeyName": "NoToastApplicationNotificationOnLockScreen",
         "PropertyType": "DWord",
         "PropertyValue": "1",
         "SetProperty": "True"
@@ -173,20 +152,6 @@
         "PropertyType": "DWord",
         "PropertyValue": "2",
         "SetProperty": "True"
-    },
-    {
-        "HivePath": "HKLM:\\VDOT_TEMP\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer",
-        "KeyName": "ShellState",
-        "PropertyType": "BINARY",
-        "PropertyValue": "0x24,0x00,0x00,0x00,0x3C,0x28,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00",
-        "SetProperty": "True"
-    },
-    {
-        "HivePath": "HKLM:\\VDOT_TEMP\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
-        "KeyName": "IconsOnly",
-        "PropertyType": "DWORD",
-        "PropertyValue": 1,
-        "SetProperty": "False"
     },
     {
         "HivePath": "HKLM:\\VDOT_TEMP\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
