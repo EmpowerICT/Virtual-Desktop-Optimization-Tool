@@ -924,13 +924,6 @@
         "VDIState": "Enabled"
     },
     {
-        "RegItemPath": "HKCU:\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\Explorer",
-        "RegItemValueName": "NoThumbnailCache",
-        "RegItemValueType": "DWord",
-        "RegItemValue": "1",
-        "VDIState": "Enabled"
-    },
-    {
         "RegItemPath": "HKCU:\\SOFTWARE\\Policies\\Microsoft\\Windows\\Explorer",
         "RegItemValueName": "DisableSearchBoxSuggestions",
         "RegItemValueType": "DWord",
@@ -947,27 +940,6 @@
     {
         "RegItemPath": "HKCU:\\SOFTWARE\\Policies\\Microsoft\\Control Panel\\International",
         "RegItemValueName": "TurnOffOfferTextPredictions",
-        "RegItemValueType": "DWord",
-        "RegItemValue": "1",
-        "VDIState": "Enabled"
-    },
-    {
-        "RegItemPath": "HKCU:\\SOFTWARE\\Policies\\Microsoft\\Windows\\Explorer",
-        "RegItemValueName": "DisableThumbsDBOnNetworkFolders",
-        "RegItemValueType": "DWord",
-        "RegItemValue": "1",
-        "VDIState": "Enabled"
-    },
-    {
-        "RegItemPath": "HKCU:\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\PushNotifications",
-        "RegItemValueName": "NoToastApplicationNotification",
-        "RegItemValueType": "DWord",
-        "RegItemValue": "1",
-        "VDIState": "Enabled"
-    },
-    {
-        "RegItemPath": "HKCU:\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\PushNotifications",
-        "RegItemValueName": "NoToastApplicationNotificationOnLockScreen",
         "RegItemValueType": "DWord",
         "RegItemValue": "1",
         "VDIState": "Enabled"
